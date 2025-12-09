@@ -177,6 +177,9 @@ img {
   .heading-lange{
     font-size: 4rem;
   }
+  .post-title{
+    font-size: 2rem;
+  }
   .page-header {
     display: flex;
     justify-content: space-between;
@@ -190,11 +193,18 @@ img {
   .main-nav{
     font-size: 2rem;
   }
+  .sub-cover{
+    height: 400px;
+    margin-bottom: 6rem;
+  }
   .cover-home{
     background-image: url(../images/cover-home-l.webp);
   }
   .about{
     margin: 4rem auto 0;
+  }
+  .cover-news{
+    background-image: url(../images/cover-news-l.webp);
   }
   .page-footer{
     background-image: url(../images/footer-l.webp);
